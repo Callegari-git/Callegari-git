@@ -4,7 +4,7 @@ French engineer in the San Francisco Bay Area. UC Berkeley (MEng), Arts et Méti
 
 I build LLM agents and the guardrails around them, and I automate operations that run in production.
 
-**Portfolio → [callegari-git.github.io](https://callegari-git.github.io)** · Open to full-time roles in 2027
+**Portfolio → [callegari-git.github.io](https://callegari-git.github.io)**
 
 ### Selected work
 
