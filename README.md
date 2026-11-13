@@ -17,14 +17,14 @@ I build LLM agents and the guardrails around them, and I automate operations tha
 
 ### Stack
 
-**Languages** Python · SQL
+**Languages** `Python` · `SQL`
 
-**AI / agents** LLM agents & tool use · MCP · Claude (Anthropic API) · Claude Code
+**AI / agents** `LLM agents & tool use` · `MCP` · `Claude (Anthropic API)` · `Claude Code`
 
-**ML / data** scikit-learn · PyTorch · Databricks · PySpark · NumPy / SciPy
+**ML / data** `scikit-learn` · `PyTorch` · `Databricks` · `PySpark` · `NumPy` · `SciPy`
 
-**Backend** FastAPI · Pydantic · Temporal · REST APIs
+**Backend** `FastAPI` · `Pydantic` · `Temporal` · `REST APIs`
 
-**Infra** AWS · Docker · GitHub Actions · pytest
+**Infra** `AWS` · `Docker` · `GitHub Actions` · `pytest`
 
-**Hardware & CAD** CadQuery · PrusaSlicer · Marlin G-code
+**Hardware & CAD** `CadQuery` · `PrusaSlicer` · `Marlin G-code`
